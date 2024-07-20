@@ -97,4 +97,4 @@ This repository structure and explanation provide a practical way to learn and a
 - **`git pull request`**  
   Submits changes to a project through the GitHub interface by proposing your changes to be reviewed and merged by the project maintainers.
 
-This list includes the most commonly used Git commands that are essential for beginners. Let me know if you need more detailed explanations or examples for any specific command!
+
