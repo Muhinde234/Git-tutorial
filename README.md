@@ -43,6 +43,8 @@ This repository structure and explanation provide a practical way to learn and a
 
 - **`git checkout <branch_name>`**  
   Switches to the specified branch.
+-- **git branch -d**
+  Remove the  branch from the local repository
 
 - **`git checkout -b <branch_name>`**  
   Creates a new branch and switches to it.
@@ -86,6 +88,17 @@ This repository structure and explanation provide a practical way to learn and a
 
 - **`git rebase <branch>`**  
   Reapplies commits on top of another base tip.
+  ### Other commands   
+- **git add -A**
+  Stage all new, modified, and deleted files. Use the shorthand command
+- **git status --short**
+  Check the compact version of the status for repository
+- **git status -help**
+  Show the possible options for the status command in command line
+- **git help --all**
+  Show all git possible commands in command line
+- **git checkout**
+  Move to the branch
 
 ### Collaboration Commands
 - **`git fork`**  
@@ -96,5 +109,6 @@ This repository structure and explanation provide a practical way to learn and a
 
 - **`git pull request`**  
   Submits changes to a project through the GitHub interface by proposing your changes to be reviewed and merged by the project maintainers.
+  ### everything you need for mastering git
 
 
